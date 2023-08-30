@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danielntamba
-- 👀 I’m interested in .estagio..
+- 👀 I’m interested in .estágio..
 - 🌱 I’m currently learning ...front end
-- 💞️ I’m looking to collaborate on ...Desevolvimento web
+- 💞️ I’m looking to collaborate on ...front end
 - 📫 How to reach me .ntamba03@gmail.com,11 912040781..
 
 <!---
